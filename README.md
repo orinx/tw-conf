@@ -2,12 +2,12 @@
 
 This is a taiwan conference list, used to remind people registration time.
 
-## Taiwan Conference List IN 2013
+## Taiwan Conference List in 2013
 
-### Comming
+### Coming
 
 + 04/19 ~ 20 [OSDC](http://osdc.tw/)
-+ 04/26 ~ 28 [ICOS](http://slat.org/icos2013/)
++ 04/26 ~ 28 [ICOS](http://jendo.org/wiki117/index.php/ICOS2013/%E6%8A%80%E8%A1%93%E8%AD%B0%E7%A8%8B)
 + 05/18 ~ 19 [JSDC](http://jsdc.tw/2013/)
 + 05/25 ~ 26 [PyCon Taiwan](http://tw.pycon.org/2013/zh/)
 + 07/06 ~ 07 [DrupalCamp](http://camp.drupaltaiwan.org/2012/)
