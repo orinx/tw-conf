@@ -1,7 +1,6 @@
 {
   "conf":
     "list" : ["WebConf","SITCON","OSDC","JSDC","PyCon Taiwan"],
-    {
     "WebConf": {
       "regi_time": "1355343132",
       "conf_time": {
