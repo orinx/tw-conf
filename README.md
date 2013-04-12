@@ -2,7 +2,7 @@
 
 This is a taiwan conference list, used to remind people registration time.
 
-## Taiwan Conference List in 2013
+## 2013
 
 ### Coming
 
@@ -20,3 +20,7 @@ This is a taiwan conference list, used to remind people registration time.
 + 01/12 ~ 13 [WebConf](http://www.webconf.tw/)
 + 02/23      ConCom
 + 03/16      [SITCON](http://sitcon.org/2013/)
+
+## License
+
+The Taiwan Conference List is released under the [MIT license](http://www.opensource.org/licenses/MIT).
