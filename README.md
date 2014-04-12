@@ -4,7 +4,7 @@ This is a taiwan conference list, used to remind people registration time.
 
 ## 2014
 
-### Comming
+### Coming
 + 4/25 ~ 4/26 [RubyConf Taiwan](http://rubyconf.tw/2014/)
 + 5/16 ~ 5/18 [PyCon APAC](https://tw.pycon.org/2014apac/)
 + 7/19 ~ 7/20 [COSCUP] (http://coscup.org/)
