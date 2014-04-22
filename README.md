@@ -9,7 +9,7 @@ This is a taiwan conference list, used to remind people registration time.
 + 5/16 ~ 5/18 [PyCon APAC](https://tw.pycon.org/2014apac/)
 + 7/19 ~ 7/20 [COSCUP] (http://coscup.org/)
 + <!-- 預計八月 [HITCON](http://hitcon.org/) -->
-+ 10/11 ~ 10/12 [JSDC] (http://jsdc.tw)
++ 10/11 ~ 10/12 [JSDC] (http://2014.jsdc.tw)
 + 10/18 ~ 10/19 [PHPConf] (http://phpconf.tw)
 
 ### Past
