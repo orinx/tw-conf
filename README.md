@@ -8,7 +8,7 @@ This is a taiwan conference list, used to remind people registration time.
 + 4/25 ~ 4/26 [RubyConf Taiwan](http://rubyconf.tw/2014/)
 + 5/16 ~ 5/18 [PyCon APAC](https://tw.pycon.org/2014apac/)
 + 7/19 ~ 7/20 [COSCUP] (http://coscup.org/)
-+ <!-- 預計八月 [HITCON](http://hitcon.org/) -->
++ 8/19 ~ 8/22 [HITCON](http://hitcon.org/)
 + 10/11 ~ 10/12 [JSDC] (http://2014.jsdc.tw)
 + 10/18 ~ 10/19 [PHPConf] (http://phpconf.tw)
 
