@@ -15,19 +15,18 @@ This is a taiwan conference list, used to remind people registration time.
 + 11/8 [g0v summit](http://summit.g0v.tw/)
 + 11/15 [JCConf] (http://jcconf.tw/)
 
-## 2015
-
-### Coming
-
-+ 3/7 [SITCON](http://sitcon.org)
-
-
 ### Past
 + 3/15 [SITCON](http://sitcon.org/)
 + 4/11 ~ 4/12 [OSDC](http://osdc.tw/)
 + 4/25 ~ 4/26 [RubyConf Taiwan](http://rubyconf.tw/2014/)
 + 5/16 ~ 5/18 [PyCon APAC](https://tw.pycon.org/2014apac/)
 + 7/19 ~ 7/20 [COSCUP] (http://coscup.org/)
+
+## 2015
+
+### Coming
+
++ 3/7 [SITCON](http://sitcon.org)
 
 ## 2013
 
