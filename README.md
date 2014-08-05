@@ -6,10 +6,21 @@ This is a taiwan conference list, used to remind people registration time.
 
 ### Coming
 
++ 8/9 [MakerConf](http://www.makerconf.tw)
 + 8/19 ~ 8/22 [HITCON](http://hitcon.org/)
++ 8/30 ~ 8/31 [DSC](http://dsc.kktix.cc/events/dsc2014)
 + 10/11 ~ 10/12 [JSDC] (http://2014.jsdc.tw)
 + 10/18 ~ 10/19 [PHPConf] (http://phpconf.tw)
++ 10/25 ~ 10/26 [MOPCON](http://mopcon.org/2014/)
++ 11/8 [g0v summit](http://summit.g0v.tw/)
 + 11/15 [JCConf] (http://jcconf.tw/)
+
+## 2015
+
+### Coming
+
++ 3/7 [SITCON](http://sitcon.org)
+
 
 ### Past
 + 3/15 [SITCON](http://sitcon.org/)
