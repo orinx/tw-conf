@@ -8,7 +8,7 @@ This is a taiwan conference list, used to remind people registration time.
 
 + 8/19 ~ 8/22 [HITCON](http://hitcon.org/)
 + 10/11 ~ 10/12 [JSDC] (http://2014.jsdc.tw)
-+ 10/18 ~ 10/19 [PHPConf] (http://phpconf.tw)
++ 10/18 [PHPConf] (http://phpconf.tw/2014/)
 + 11/15 [JCConf] (http://jcconf.tw/)
 
 ### Past
