@@ -25,7 +25,9 @@ This is a taiwan conference list, used to remind people registration time.
 ## 2015
 
 ### Coming
++ 8/15 ~ 8/16 [COSCUP](http://coscup.org)
 
+### Past
 + 3/7 [SITCON](http://sitcon.org)
 
 ## 2013
