@@ -2,6 +2,14 @@
 
 This is a taiwan conference list, used to remind people registration time.
 
+## 2015
+
+### Coming
++ 8/15 ~ 8/16 [COSCUP](http://coscup.org)
+
+### Past
++ 3/7 [SITCON](http://sitcon.org)
+
 ## 2014
 
 ### Coming
@@ -22,13 +30,6 @@ This is a taiwan conference list, used to remind people registration time.
 + 8/19 ~ 8/22 [HITCON](http://hitcon.org/)
 + 8/30 ~ 8/31 [DSC](http://dsc.kktix.cc/events/dsc2014)
 
-## 2015
-
-### Coming
-+ 8/15 ~ 8/16 [COSCUP](http://coscup.org)
-
-### Past
-+ 3/7 [SITCON](http://sitcon.org)
 
 ## 2013
 
